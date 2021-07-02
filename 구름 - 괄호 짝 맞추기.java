@@ -1,6 +1,5 @@
 import java.io.*;
 import java.util.*;
-
 class Main {
 	static ArrayList<Integer> arr;
 	static String str;
