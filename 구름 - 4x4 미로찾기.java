@@ -1,5 +1,6 @@
 import java.io.*;
 import java.util.*;
+
 class Main {
 	static int[][] maze;
 	static int[][] result;
